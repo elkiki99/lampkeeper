@@ -1,5 +1,4 @@
 # The Lampkeeper
-#### Video Demo: https://www.youtube.com/watch?v=Efym-WJC9Xg
 #### Description:
 
 **The Lampkeeper** is a minimalist, terminal-based exploration game written entirely in C.  
