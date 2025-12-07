@@ -16,7 +16,7 @@ The board begins almost completely dark, and visibility depends on two things:
 - Step on lamps (`i`) to light them permanently  
 - Breakable obstacles (`/`) can be destroyed if you still have break credits  
 - Solid obstacles (`O`) cannot be crossed  
-- Type **“surrender”** to give up at any time  
+- Type **“Quit”** to give up at any time  
 - Win automatically when more than half of the board has been revealed
 
 ### 🔧 Technical Features
