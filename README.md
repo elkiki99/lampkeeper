@@ -1,12 +1,12 @@
-# The Lamplighter
+# The Lampkeeper
 #### Video Demo: <PASTE YOUR YOUTUBE URL HERE>
 #### Description:
 
-**The Lamplighter** is a minimalist, terminal-based exploration game written entirely in C.  
+**The Lampkeeper** is a minimalist, terminal-based exploration game written entirely in C.  
 It was built as my final project for CS50, inspired by old-school text interfaces and the charm of purely logic-driven games.
 
 The objective is simple:  
-You play as the **Lamplighter** (`*`) and must reveal at least **half of the map** to win.  
+You play as the **Lampkeeper** (`*`) and must reveal at least **half of the map** to win.  
 The board begins almost completely dark, and visibility depends on two things:
 - the player’s proximity, and  
 - the lamps that have been lit around the map.
@@ -42,4 +42,4 @@ This project helped me practice:
 
 ---
 
-Thanks for checking out **The Lamplighter**!
+Thanks for checking out **The Lampkeeper**!
